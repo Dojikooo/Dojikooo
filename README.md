@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Dojikooo
-- 👀 I’m interested in creating high profile.
-- 🌱 I’m currently learning web3, data analyst, cybersecurity and all IT related.
-- 💞️ I’m looking forward to learn with you.
-
+- 👩🏻‍💻 Sharing my journey and ongoing learning in technology, exploring new horizons and embracing the challenges of innovation.
+- 👩🏻‍💻 Graduated with a Bachelor of Science in Information Technology from Oriental Mindoro, Philippines.
+- 👀 I am passionate about creating high-profile projects in technology, aiming to innovate and make meaningful contributions to the field.
+- 🌱 I am currently expanding my skills in web3 development, data analysis, cybersecurity, cloud engineering, and all things IT-related to stay at the forefront of technological innovation.
+- 💞️ Excited to embark on a learning journey together with the GitHub community!
+- 
 [![Dojikooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dojikooo)](https://github.com/Dojikooo/github-readme-stats)
 
 
