@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Dojikooo
-- 👩🏻‍💻 Sharing my journey and ongoing learning in technology, exploring new horizons and embracing the challenges of innovation.
-- 👩🏻‍💻 Graduated with a Bachelor of Science in Information Technology from Oriental Mindoro, Philippines.
-- 👀 I am passionate about creating high-profile projects in technology, aiming to innovate and make meaningful contributions to the field.
-- 🌱 I am currently expanding my skills in web3 development, data analysis, cybersecurity, cloud engineering, and all things IT-related to stay at the forefront of technological innovation.
+- 👩🏻‍💻 I graduated with a Bachelor of Science in Information Technology from Oriental Mindoro, Philippines. I am dedicated to sharing my journey and ongoing learning in technology, while exploring new horizons and embracing the challenges of innovation.
+- 👀 I am passionate about spearheading high-profile projects within the technology sector. My focus is on innovating and making meaningful contributions to the field.
+- 🌱 Currently, I am expanding my expertise in web3 development, data analysis, cybersecurity, cloud engineering, and other IT-related disciplines. My goal is to remain at the cutting edge of technological advancements.
+- 😉 I value privacy and am committed to maintaining a personal space where my actions and words are not subject to constant surveillance.
 - 💞️ Excited to embark on a learning journey together with the GitHub community!
   
 [![Dojikooo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dojikooo)](https://github.com/Dojikooo/github-readme-stats)
